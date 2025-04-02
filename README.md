@@ -2,6 +2,11 @@
 
 Este proyecto es una API RESTful desarrollada con FastAPI que implementa operaciones CRUD (Create, Read, Update, Delete) sobre un recurso de productos. La API incluye documentación automática y está preparada para ser desplegada en la nube.
 
+## 👥 Integrantes
+
+- Kevin Estiven Gil Salcedo - 2159863
+- Nicolás Prado León - 2160073
+
 ## 📌 Características
 
 - Desarrollo del backend con **FastAPI**
