@@ -59,7 +59,8 @@ FastAPI genera documentación automática en los siguientes endpoints:
 
 La API ha sido desplegada en **Vercel** y está disponible en:
 
-🔗 **URL del despliegue:** [ENLACE_A_LA_API](#)
+- **URL del despliegue:** [Enlace a la API](https://fastapi-lab-www.vercel.app)
+- **URL de la documentación:** [Enlace a la documentación](https://fastapi-lab-www.vercel.app/docs)
 
 ## 🛠 Tecnologías Utilizadas
 
